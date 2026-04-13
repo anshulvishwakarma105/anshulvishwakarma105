@@ -60,7 +60,7 @@
 <a href="https://linkedin.com/in/anshul-vishwakarma" target="_blank">
   <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
-<a href="https://instagram.com/xans.hulx91" target="_blank">
+<a href="https://instagram.com/anshul_nhi.hu" target="_blank">
   <img src="https://skillicons.dev/icons?i=instagram" height="40"/>
 </a>
 <a href="https://leetcode.com/u/anshulvish105/" target="_blank">
