@@ -20,7 +20,7 @@
 - 🔹 Passionate about **clean architecture & scalable frontend systems**
 - 🔹 Exploring **full-stack integration & modern web tooling**
 
-- 🌐 Portfolio: **[anshulvishwakarna.netlify.app](https://anshulvishwakarna.netlify.app)**
+- 🌐 Portfolio: **[anshulvishwakarna.netlify.app](https://anshulvishwakarma.netlify.app)**
 - 📄 Resume: **[View Resume](https://drive.google.com/file/d/17luRFbkznssKz3yumrE6a4VvzO7E23Er/view?usp=sharing)**
 - 📫 Email: **anshulvishwkarma58@gmail.com**
 - ⚡ Fun fact: *Clean UI + Clean Code = Real Impact*
